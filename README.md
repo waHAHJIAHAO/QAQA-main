@@ -1,6 +1,6 @@
 # QAQA-main
 QAQA: a quick unsupervised action quality assessment method
-
+/asset/QAQApipeline.pdf
 # Skeleton-Based Action Quality Assessment with Anomaly-Aware DTW Optimization for Intelligent Sports Education
 
 This research presents a skeleton-based action quality assessment method with anomaly-aware Dynamic Time Warping (DTW) optimization for intelligent sports education. Addressing the limitations of traditional methods—where regression models rely heavily on high-quality annotated data and unsupervised methods suffer from accuracy degradation in long sequences—we propose an indirect scoring framework integrating action anomaly detection and a Quick Action Quality Assessment (QAQA) algorithm.
