@@ -15,9 +15,11 @@ This research presents a skeleton-based action quality assessment method with an
 
 The method outperforms traditional approaches in both execution efficiency and scoring accuracy, with the Spearman rank correlation coefficient improving by approximately 48% compared to the best supervised methods4
 
-### Chinese traditional Qigong Dataset：
+### Chinese traditional Qigong Dataset：
 
 The dataset can be obtained through Google Drive below after filling out the application form.
+dataset: https://drive.google.com/drive/folders/1bPnoIrRZLBV8fPS1wo5XqhktYgJVjEy3?usp=sharing
+Each movement category contains a standard template movement demonstrated by a Qigong expert and multiple movements for scoring.
 
 | ID  | Action category | Amount |
 | --- | --- | --- |
